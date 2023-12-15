@@ -1,0 +1,4 @@
+.env
+.env
+/src/public/product-images/*
+/node_modules/
