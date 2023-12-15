@@ -9,9 +9,9 @@
 
 #### ⚪ Running Screen || Video
 <p align ="center">
-  <a href="https://www.youtube.com/watch?v=-PwSEkOKk4E"><img src ="https://img.shields.io/badge/youtube-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://www.youtube.com/watch?v=VNUQ4d3GX4Q"><img src ="https://img.shields.io/badge/youtube-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"/></a>
   </br>
-  <img src="https://github.com/MpqM/NodeJS_SNS/assets/79093184/f6eb123c-2485-409c-9d8c-6decdce00eb1">
+  <img src="https://github.com/MpqM/NodeJS_Shop/assets/79093184/d8bf6416-b917-4ef9-ac0a-664fa5a4e024">
 </p>
 
 - - -
